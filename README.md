@@ -4,8 +4,6 @@ A dynamic and visually rich **Power BI dashboard** built to analyze data for the
 
 ---
 
-### Note- In order to Interact with the Dashboard, Please Download the File as it might not open on Github. Thank You
-
 ## 🚀 Project Overview
 
 This project showcases how modern data analytics and visualization tools can bring large-scale event data to life. The dashboard enables users to:
@@ -43,3 +41,12 @@ This project showcases how modern data analytics and visualization tools can bri
 - **Interactive map visualizations** with zoom-on-selection
 - **Clean layout design** built using Figma and implemented in Power BI
 - Search-enabled visuals and custom tooltips
+
+  
+## 📥 How to View the Dashboard
+
+To explore the full Power BI dashboard:
+
+1. **Download the `.pbix` file** from this repository.
+2. Open it using **Power BI Desktop** (free to download from Microsoft).
+3. Interact with the visuals, slicers, and charts to explore different insights.
